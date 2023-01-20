@@ -1,4 +1,4 @@
-baseURL = 'http://www.liangtao.cc'
+baseURL = "https://liangtao.cc"
 languageCode = 'zh-cn'
 title = "Jimmy's Blog"
 theme = 'paper'
@@ -9,6 +9,11 @@ github = "jimmyrogue"
 avatar = 'http://qiniu.ysjf.com/%E4%B8%8B%E8%BD%BD.png'                 # gravatar email or image url
 name = 'Tao Liang'
 bio = '这里就是罗德岛，要跳就在这里跳'
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [menu]
 

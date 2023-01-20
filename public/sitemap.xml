@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.liangtao.cc/about/</loc>
+    <loc>https://liangtao.cc/</loc>
+  </url><url>
+    <loc>https://liangtao.cc/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://www.liangtao.cc/contact/</loc>
+    <loc>https://liangtao.cc/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://www.liangtao.cc/categories/</loc>
+    <loc>https://liangtao.cc/categories/</loc>
   </url><url>
-    <loc>http://www.liangtao.cc/</loc>
-  </url><url>
-    <loc>http://www.liangtao.cc/tags/</loc>
+    <loc>https://liangtao.cc/tags/</loc>
   </url>
 </urlset>

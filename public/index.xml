@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jimmy&#39;s Blog</title>
-    <link>http://www.liangtao.cc/</link>
+    <link>https://liangtao.cc/</link>
     <description>Recent content on Jimmy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://www.liangtao.cc/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://liangtao.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://www.liangtao.cc/about/</link>
+      <link>https://liangtao.cc/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.liangtao.cc/about/</guid>
+      <guid>https://liangtao.cc/about/</guid>
       <description>about</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.liangtao.cc/contact/</link>
+      <link>https://liangtao.cc/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.liangtao.cc/contact/</guid>
+      <guid>https://liangtao.cc/contact/</guid>
       <description>contact</description>
     </item>
     
